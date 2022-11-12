@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "u2.html",
+    "currentPage": "u6.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -57,7 +57,9 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/anton/Desktop/u"
   },
   "pages": {
     "v1.html": {
